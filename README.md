@@ -1,17 +1,17 @@
-本仓库为《小白学 Python 系列文章》 的代码仓库，欢迎点赞、收藏。更多文章可访问博客站 https://www.geekdigging.com/ 获取。
+本仓库转自《小白学 Python 系列文章》 的代码仓库，欢迎点赞、收藏。更多文章可访问博客站 https://www.geekdigging.com/ 获取。
 
 ![](https://img.shields.io/badge/Python-3.7.4-brightgreen)
 ![](https://img.shields.io/badge/license-MPL--2.0-blue)
 
 ***
 
-如果我的文章对你有帮助，请扫码关注我的公众号，所有的文章都会在公众号首推：
+原作者公众号，所有的文章都会在公众号首推：
 
 <center>
     <img src="https://cdn.geekdigging.com/wechat_qrcode_344.jpg">
 </center>
 
-* 博主微信：allen_6174
+* 原博主微信：allen_6174
 
 # [小白学 Python 基础系列文章](https://www.geekdigging.com/tags/Python-%E5%9F%BA%E7%A1%80/)
 
